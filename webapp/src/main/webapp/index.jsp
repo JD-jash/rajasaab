@@ -33,7 +33,7 @@
 
    <h1> Thank You, HAPPY Learning </h1>
    <h1> See You Again </h1>
-<h3> emal tony </h3>
-<h1>eda moneee</h1>
+<h3> this is milestone </h3>
+<h1>project built/h1>
   
 </form>
